@@ -1,0 +1,8 @@
+# generated from catkin/cmake/template/pkg.context.pc.in
+CATKIN_PACKAGE_PREFIX = ""
+PROJECT_PKG_CONFIG_INCLUDE_DIRS = "".split(';') if "" != "" else []
+PROJECT_CATKIN_DEPENDS = "sensor_msgs;velodyne_pointcloud".replace(';', ' ')
+PKG_CONFIG_LIBRARIES_WITH_PREFIX = "".split(';') if "" != "" else []
+PROJECT_NAME = "3D-groundplane"
+PROJECT_SPACE_DIR = "/home/deepaknayak/catkin_ws_groundplane/install"
+PROJECT_VERSION = "0.0.0"

@@ -1,0 +1,2 @@
+3D-groundplane
+-DCATKIN_DEVEL_PREFIX=/home/deepaknayak/catkin_ws_groundplane/devel -DCMAKE_INSTALL_PREFIX=/home/deepaknayak/catkin_ws_groundplane/install -G Unix Makefiles

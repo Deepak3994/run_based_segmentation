@@ -1,0 +1,8 @@
+prefix=/home/deepaknayak/catkin_ws_groundplane/install
+
+Name: 3D-groundplane
+Description: Description of 3D-groundplane
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/deepaknayak/catkin_ws_groundplane/install/lib 
+Requires: sensor_msgs velodyne_pointcloud
